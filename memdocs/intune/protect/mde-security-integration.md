@@ -57,7 +57,8 @@ Applies to:
 
 ## Prerequisites
 
-Review the following sections for requirements for the Defender for Endpoint security settings management Scenario.
+Review the following sections for requirements for the Defender for Endpoint security settings management Scenario. 
+Is it requires Microsoft Defender for Endpoint Plan 2 license to make the synthetic Entra ID Join happen on workgroup or locally onboarded devices?
 
 ### Environment
 
